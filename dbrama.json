@@ -1,4 +1,11 @@
 {
-    "ads": [
-    ]
-}
+    "admin": {
+      "username": "admin",
+      "password": "azril1113"
+    },
+    "kasir": {
+      "username": "kasir",
+      "password": "demo23233"
+    }
+  }
+  
